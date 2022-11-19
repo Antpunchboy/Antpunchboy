@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Antpunchboy
+- 👋 Hi, I’m @antpunchboy
 - 👀 I’m interested in Programming(only websites as of now), Physics/Math, interested in Electrical Engineering and Software Engineering
 - 🌱 I’m currently learning MERN stack and relational databases(SQL)
 - 💞️ I’m looking to collaborate on (only focussing on personal projects for now, would like to collaborate on larger scale projects, not necessarily web development, related to hardware design preferably, once I've gained enough experience) 
